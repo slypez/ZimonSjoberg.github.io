@@ -1,14 +1,11 @@
 ---
 layout: default
-description: Zimon Sjöberg portfolio
 ---
 
 ## Tool for procedural generation of terrain
 ### in adition to traversability check
 
 ### [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
-
-***
 
 <img width="281" height="158" src="images/terrain/Mountains_1.png"> | <img width="281" height="158" src="images/terrain/Mountains_2.png">
 
