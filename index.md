@@ -9,13 +9,20 @@ layout: default
 [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
 
 ![Illustration_1](https://github.com/slypez/ZimonSjoberg.github.io/blob/master/images/terrain/Mountains_1.png)
-Figure 1: Terrain example
-![Illustration_1](https://github.com/slypez/ZimonSjoberg.github.io/blob/master/images/terrain/Mountains_2.png)
-Figure 1: Terrain example
-![Illustration_1](https://github.com/slypez/ZimonSjoberg.github.io/blob/master/images/terrain/Mountains_3.png)
-Figure 1: Terrain example
-![Illustration_1](https://github.com/slypez/ZimonSjoberg.github.io/blob/master/images/terrain/Mountains_4.png)
-Figure 1: Terrain example
+
+Figure 1: Hell/Mordor
+
+![Illustration_2](https://github.com/slypez/ZimonSjoberg.github.io/blob/master/images/terrain/Mountains_2.png)
+
+Figure 2: Mountains
+
+![Illustration_3](https://github.com/slypez/ZimonSjoberg.github.io/blob/master/images/terrain/Mountains_3.png)
+
+Figure 3: Glacier
+
+![Illustration_4](https://github.com/slypez/ZimonSjoberg.github.io/blob/master/images/terrain/Mountains_4.png)
+
+Figure 3: Sand dunes
 
 ***
 
