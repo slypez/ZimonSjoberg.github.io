@@ -8,23 +8,29 @@ layout: default
 
 ### [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
 
-<img align="left" width="281" height="158" src="images/terrain/Mountains_1.png">
+***
 
-Figure 1: Hell/Mordor
+<figure>
+  <img align="left" width="281" height="158" src="images/terrain/Mountains_2.png">
+  <figcaption>Fig.1 - Hell/Mordor</figcaption>
+</figure>
 
-<img align="left" width="281" height="158" src="images/terrain/Mountains_2.png">
-
-Figure 2: Mountains
+<figure>
+  <img align="left" width="281" height="158" src="images/terrain/Mountains_2.png">
+  <figcaption>Fig.2 - Mountains</figcaption>
+</figure>
 
 ***
 
-<img align="left" width="281" height="158" src="images/terrain/Mountains_3.png">
+<figure>
+  <img align="left" width="281" height="158" src="images/terrain/Mountains_2.png">
+  <figcaption>Fig.3 - Glacier</figcaption>
+</figure>
 
-Figure 3: Glacier
-
-<img align="left" width="281" height="158" src="images/terrain/Mountains_4.png">
-
-Figure 4: Sand dunes
+<figure>
+  <img align="left" width="281" height="158" src="images/terrain/Mountains_2.png">
+  <figcaption>Fig.4 - Sand dunes</figcaption>
+</figure>
 
 ***
 
