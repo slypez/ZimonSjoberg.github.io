@@ -9,7 +9,7 @@ layout: default
 ### [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
 
 ***
-
+<div> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <div> 
@@ -24,16 +24,23 @@ layout: default
   <figcaption>Fig.2 - Mountains</figcaption>
   </div> 
 </figure>
+</div>
 
+<div> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
+  <div>
   <figcaption>Fig.3 - Glacier</figcaption>
+  </div>
 </figure>
 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
+  <div>
   <figcaption>Fig.4 - Sand dunes</figcaption>
+  </div>
 </figure>
+</div>
 
 ***
 
