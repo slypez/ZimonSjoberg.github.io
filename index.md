@@ -12,7 +12,7 @@ layout: default
 
 Figure 1: Hell/Mordor
 
-![Illustration_2](https://github.com/slypez/ZimonSjoberg.github.io/blob/master/images/terrain/Mountains_2.png)
+![Illustration_2](images/terrain/Mountains_2.png)
 
 Figure 2: Mountains
 
