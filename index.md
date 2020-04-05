@@ -10,22 +10,11 @@ layout: default
 
 ***
 
-<img width="281" height="158" src="images/terrain/Mountains_1.png" | <img width="281" height="158" src="images/terrain/Mountains_1.png"
-
-Text 1
-
-<img width="281" height="158" src="images/terrain/Mountains_2.png">
-
-Text 2
 
 
-<img width="281" height="158" src="images/terrain/Mountains_2.png">
+<img width="281" height="158" src="images/terrain/Mountains_1.png"> | <img width="281" height="158" src="images/terrain/Mountains_2.png">
 
-Text 1
-
-<img width="281" height="158" src="images/terrain/Mountains_2.png">
-
-Text 2
+<img width="281" height="158" src="images/terrain/Mountains_3.png"> | <img width="281" height="158" src="images/terrain/Mountains_4.png">
 
 
 ***
