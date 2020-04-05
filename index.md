@@ -14,25 +14,25 @@ layout: default
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   
-  <figcaption>Fig.1 - Hell/Mordor</figcaption>
+  <figcaption style=float:none >Fig.1 - Hell/Mordor</figcaption>
   
 </figure>
 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <figcaption>Fig.2 - Mountains</figcaption>
+  <figcaption style=float:none >Fig.2 - Mountains</figcaption>
 </figure>
 </div>
 
 <div> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <figcaption>Fig.3 - Glacier</figcaption>
+  <figcaption style=float:none >Fig.3 - Glacier</figcaption>
 </figure>
 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <figcaption>Fig.4 - Sand dunes</figcaption>
+  <figcaption style=float:none >Fig.4 - Sand dunes</figcaption>
 </figure>
 </div>
 
