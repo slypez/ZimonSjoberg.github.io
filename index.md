@@ -10,7 +10,7 @@ layout: default
 
 ***
 
-<div flow = left overflow-x: auto> 
+<div flex-flow = row nowrap> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <div> 
@@ -27,7 +27,7 @@ layout: default
 </figure>
 </div>
 
-<div flow = left overflow-x: auto> 
+<div flex-flow = row nowrap> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <div>
