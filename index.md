@@ -10,33 +10,33 @@ layout: default
 
 ***
 
-<div flow = left>
+<div flow = none>
   <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div flow = none>   
+  <div flow = left>   
   <figcaption>Fig.1 - Hell/Mordor </figcaption>
   </div>
 </figure>
 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div flow = none>
+  <div flow = left>
   <figcaption>Fig.2 - Mountains</figcaption>
   </div> 
 </figure>
 </div>
 
-<div flow = left>
+<div flow = none>
   <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div flow = none>
+  <div flow = left>
   <figcaption>Fig.3 - Glacier</figcaption>
   </div>
   </figure>
 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div flow = none>
+  <div flow = left>
   <figcaption>Fig.4 - Sand dunes</figcaption>
   </div>
 </figure>
