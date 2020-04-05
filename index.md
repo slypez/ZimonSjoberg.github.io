@@ -1,10 +1,5 @@
 ---
 layout: default
-
-div {
-  flex-flow: nowrap;
-}
-
 ---
 
 
@@ -15,34 +10,33 @@ div {
 
 ***
 
-<div>
+<div flow = left>
   <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div>   
-  Fig.1 - Hell/Mordor
+  <div flow = none>   
+  <figcaption>Fig.1 - Hell/Mordor </figcaption>
   </div>
-
 </figure>
 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div>
+  <div flow = none>
   <figcaption>Fig.2 - Mountains</figcaption>
   </div> 
 </figure>
 </div>
 
-<div>
+<div flow = left>
   <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div> 
+  <div flow = none>
   <figcaption>Fig.3 - Glacier</figcaption>
   </div>
   </figure>
 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div> 
+  <div flow = none>
   <figcaption>Fig.4 - Sand dunes</figcaption>
   </div>
 </figure>
