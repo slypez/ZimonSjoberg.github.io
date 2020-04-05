@@ -10,10 +10,12 @@ layout: default
 
 ***
 
-<div flex-flow = row nowrap> 
-<figure>
+
+
+<div id="main">
+  <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div> 
+  <div flex-flow = column nowrap> 
   <figcaption>Fig.1 - Hell/Mordor</figcaption>
   </div>
 
@@ -21,23 +23,23 @@ layout: default
 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div> 
+  <div flex-flow = column nowrap> 
   <figcaption>Fig.2 - Mountains</figcaption>
   </div> 
 </figure>
 </div>
 
-<div flex-flow = row nowrap> 
-<figure>
+<div id="main">
+  <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div>
+  <div flex-flow = column nowrap> 
   <figcaption>Fig.3 - Glacier</figcaption>
   </div>
-</figure>
+  </figure>
 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div>
+  <div flex-flow = column nowrap> 
   <figcaption>Fig.4 - Sand dunes</figcaption>
   </div>
 </figure>
