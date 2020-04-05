@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 ## Tool for procedural generation of terrain
 ### in adition to traversability check
 
@@ -10,12 +9,9 @@ layout: default
 
 ***
 
-
-
 <img width="281" height="158" src="images/terrain/Mountains_1.png"> | <img width="281" height="158" src="images/terrain/Mountains_2.png">
 
 <img width="281" height="158" src="images/terrain/Mountains_3.png"> | <img width="281" height="158" src="images/terrain/Mountains_4.png">
-
 
 ***
 
