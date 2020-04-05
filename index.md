@@ -10,7 +10,7 @@ layout: default
 
 ***
 
-<div flow = left> 
+<div flow = left overflow-x: auto> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <div> 
@@ -27,7 +27,7 @@ layout: default
 </figure>
 </div>
 
-<div flow = left> 
+<div flow = left overflow-x: auto> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <div>
