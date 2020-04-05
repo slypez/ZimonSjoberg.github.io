@@ -13,7 +13,9 @@ layout: default
 <div align = "left"> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
+  
   <figcaption>Fig.1 - Hell/Mordor</figcaption>
+
 </figure>
 
 <figure>
