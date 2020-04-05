@@ -2,10 +2,10 @@
 layout: default
 ---
 
-### Tool for procedural generation of terrain
-## in adition to traversability check
+## Tool for procedural generation of terrain
+### in adition to traversability check
 
-## [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
+### [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
 
 ***
 
@@ -17,7 +17,7 @@ layout: default
 
 ## Multiplayer pc game created from course (Spelprojekt 2)
 
-## [SGA reference](https://www.gameawards.se/Games/2019/re%3ASurge)
+### [SGA reference](https://www.gameawards.se/Games/2019/re%3ASurge)
 
 <img width="281" height="158" src="images/reSurge.jpg">
 
