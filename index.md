@@ -9,7 +9,7 @@ layout: default
 ### [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
 
 ***
-<div align = left > 
+<div flow = left > 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <div> 
@@ -26,7 +26,7 @@ layout: default
 </figure>
 </div>
 
-<div align = left> 
+<div flow = left> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <div>
