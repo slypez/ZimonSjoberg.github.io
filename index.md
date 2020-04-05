@@ -12,13 +12,9 @@ layout: default
 
 Figure 1: Hell/Mordor
 
----
-
 <img align="left" width="563" height="316" src="images/terrain/Mountains_2.png">
 
 Figure 2: Mountains
-
----
 
 <img align="left" width="563" height="316" src="images/terrain/Mountains_3.png">
 
