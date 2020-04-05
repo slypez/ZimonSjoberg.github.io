@@ -10,7 +10,7 @@ layout: default
 
 ***
 
-<div>
+<div flow= left>
 <img width="281" height="158" src="images/terrain/Mountains_2.png">
 
 Text 1
@@ -21,7 +21,7 @@ Text 2
 
 </div>
 
-<div>
+<div flow= left>
 <img width="281" height="158" src="images/terrain/Mountains_2.png">
 
 Text 1
