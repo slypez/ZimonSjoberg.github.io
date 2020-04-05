@@ -10,7 +10,15 @@ layout: default
 
 ***
 
-<div flow= left>
+<img width="281" height="158" src="images/terrain/Mountains_1.png" | <img width="281" height="158" src="images/terrain/Mountains_1.png"
+
+Text 1
+
+<img width="281" height="158" src="images/terrain/Mountains_2.png">
+
+Text 2
+
+
 <img width="281" height="158" src="images/terrain/Mountains_2.png">
 
 Text 1
@@ -19,18 +27,6 @@ Text 1
 
 Text 2
 
-</div>
-
-<div flow= left>
-<img width="281" height="158" src="images/terrain/Mountains_2.png">
-
-Text 1
-
-<img width="281" height="158" src="images/terrain/Mountains_2.png">
-
-Text 2
-
-</div>
 
 ***
 
