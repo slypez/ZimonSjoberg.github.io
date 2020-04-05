@@ -10,6 +10,7 @@ layout: default
 
 ***
 
+<div align = "left"> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <figcaption>Fig.1 - Hell/Mordor</figcaption>
@@ -19,9 +20,9 @@ layout: default
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <figcaption>Fig.2 - Mountains</figcaption>
 </figure>
+</div>
 
-***
-
+<div align = "left"> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <figcaption>Fig.3 - Glacier</figcaption>
@@ -31,6 +32,7 @@ layout: default
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <figcaption>Fig.4 - Sand dunes</figcaption>
 </figure>
+</div>
 
 ***
 
