@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Zimon Sjöberg portfolio
 ---
 
 ## Tool for procedural generation of terrain
