@@ -10,36 +10,26 @@ layout: default
 
 ***
 
-<div flow = none>
-  <figure>
-  <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div flow = left>   
-  <figcaption>Fig.1 - Hell/Mordor </figcaption>
-  </div>
-</figure>
+<div>
+<img width="281" height="158" src="images/terrain/Mountains_2.png">
 
-<figure>
-  <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div flow = left>
-  <figcaption>Fig.2 - Mountains</figcaption>
-  </div> 
-</figure>
+Text 1
+
+<img width="281" height="158" src="images/terrain/Mountains_2.png">
+
+Text 2
+
 </div>
 
-<div flow = none>
-  <figure>
-  <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div flow = left>
-  <figcaption>Fig.3 - Glacier</figcaption>
-  </div>
-  </figure>
+<div>
+<img width="281" height="158" src="images/terrain/Mountains_2.png">
 
-<figure>
-  <img width="281" height="158" src="images/terrain/Mountains_2.png">
-  <div flow = left>
-  <figcaption>Fig.4 - Sand dunes</figcaption>
-  </div>
-</figure>
+Text 1
+
+<img width="281" height="158" src="images/terrain/Mountains_2.png">
+
+Text 2
+
 </div>
 
 ***
