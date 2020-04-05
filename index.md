@@ -19,6 +19,8 @@ layout: default
 
 [SGA reference](https://www.gameawards.se/Games/2019/re%3ASurge)
 
+<img width="281" height="158" src="images/reSurge.jpg">
+
 ***
 
 ## ...
