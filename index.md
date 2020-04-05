@@ -10,10 +10,12 @@ layout: default
 
 ***
 
-<div align = "left"> 
+<div> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
+  
   <figcaption>Fig.1 - Hell/Mordor</figcaption>
+  
 </figure>
 
 <figure>
@@ -22,7 +24,7 @@ layout: default
 </figure>
 </div>
 
-<div align = "left"> 
+<div> 
 <figure>
   <img width="281" height="158" src="images/terrain/Mountains_2.png">
   <figcaption>Fig.3 - Glacier</figcaption>
