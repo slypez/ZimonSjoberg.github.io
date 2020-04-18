@@ -27,9 +27,19 @@
 
 ### [PC-game] AvoidTheArrows
 #### Game created in course "Game AI"
-##### [Game](./AvoidTheArrows/index.html)
+_Press space to start build_
+##### [Build](./AvoidTheArrows/index.html)
 
 <img width="70%" height="70%" src="images/AvoidTheArrows.PNG">
 
+***
+
+### [Simulation] Physics-based cloth simulation
+#### Simulation created in course "Game physics"
+##### [Build](./ClothSimulation/index.html)
+
+<img width="70%" height="70%" src="images/PhysicsCloth.PNG">
+
+***
 
 ## ...
