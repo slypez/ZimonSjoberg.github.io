@@ -21,7 +21,7 @@
 #### Co-op game created in course Spelprojekt 1
 ##### [Conceptual trailer](https://www.youtube.com/watch?v=luHtlafBigA)
 
-<img width="70%" height="70%" src="images/reSurge.jpg">
+<img width="70%" height="70%" src="images/MageAndVagrant_Logo.jpg">
 
 ***
 
