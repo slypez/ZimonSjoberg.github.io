@@ -10,7 +10,7 @@
 ***
 
 ### [PC-game] re:Surge
-#### Multiplayer game created in course Spelprojekt 2
+#### Multiplayer game created in course "Spelprojekt 2"
 ##### [SGA reference](https://www.gameawards.se/Games/2019/re%3ASurge)
 
 <img width="70%" height="70%" src="images/reSurge.jpg">
@@ -18,11 +18,18 @@
 ***
 
 ### [PC-game] Mage & Vagrant
-#### Co-op game created in course Spelprojekt 1
+#### Co-op game created in course "Spelprojekt 1"
 ##### [Conceptual trailer](https://www.youtube.com/watch?v=luHtlafBigA)
 
 <img width="70%" height="70%" src="images/MageAndVagrant_Logo.jpg">
 
 ***
+
+### [PC-game] AvoidTheArrows
+#### Game created in course "Game AI"
+##### [Game](./AvoidTheArrows/index.html)
+
+<img width="70%" height="70%" src="images/AvoidTheArrows.PNG">
+
 
 ## ...
