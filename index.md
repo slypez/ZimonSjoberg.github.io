@@ -1,22 +1,27 @@
 
 ***
 
-## Tool for procedural generation of terrain
-### in adition to traversability check
+### [Tool] Procedural generation of terrain + testing
+#### Tool uses noise algorithms Diamond-square & Pelin noise in addition to a "traversability algorithm"
+##### [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
 
-### [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
-
-<img width="281" height="158" src="images/terrain/Mountains_1.png"> | <img width="281" height="158" src="images/terrain/Mountains_2.png">
-
-<img width="281" height="158" src="images/terrain/Mountains_3.png"> | <img width="281" height="158" src="images/terrain/Mountains_4.png">
+<img width="70%" height="70%" src="images/terrain/AllMountains.png">
 
 ***
 
-## Multiplayer pc game created from course (Spelprojekt 2)
+### [PC-game] re:Surge
+#### Multiplayer game created in course Spelprojekt 2
+##### [SGA reference](https://www.gameawards.se/Games/2019/re%3ASurge)
 
-### [SGA reference](https://www.gameawards.se/Games/2019/re%3ASurge)
+<img width="70%" height="70%" src="images/reSurge.jpg">
 
-<img width="281" height="158" src="images/reSurge.jpg">
+***
+
+### [PC-game] Mage & Vagrant
+#### Co-op game created in course Spelprojekt 1
+##### [Conceptual trailer](https://www.youtube.com/watch?v=luHtlafBigA)
+
+<img width="70%" height="70%" src="images/reSurge.jpg">
 
 ***
 
