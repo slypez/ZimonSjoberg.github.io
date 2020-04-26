@@ -27,7 +27,6 @@
 
 ### [PC-game] AvoidTheArrows
 #### Game created in course "Game AI"
-_Press space to start build_
 ##### [Build](./AvoidTheArrows/index.html)
 
 <img width="70%" height="70%" src="images/AvoidTheArrows.PNG">
