@@ -1,7 +1,14 @@
 
-***
+# Professional projects
+<br>
+### [PC-Game] Heart Electric
+#### Heart Electric is a fast-paced, tactical, team shooter where four teams try to outsmart and outplay each other in a
+#### battle for life sustaining Energy. Invite your friends and come up with your own winning strategies, using unique hero
+#### abilities, customizable weapons loadouts and the magnetic “Flux" power that allow you to navigate the environment
+#### like never before. Heart Electric invites you to feel the pulse and beat the odds.
+##### [modoyo.com](https://modoyo.com/)
 # Academic projects
-
+<br>
 ### [Tool] Procedural generation of terrain + testing
 #### Tool uses noise algorithms Diamond-square & Pelin noise in addition to a "traversability algorithm"
 ##### [Github reference](https://github.com/slypez/Procedural_generation_of_terrain)
@@ -39,7 +46,3 @@
 ##### [Build](./ClothSimulation/index.html)
 
 <img width="70%" height="70%" src="images/PhysicsCloth.PNG">
-
-***
-
-## ...
