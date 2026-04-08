@@ -1,5 +1,6 @@
 
 ***
+# Academic projects
 
 ### [Tool] Procedural generation of terrain + testing
 #### Tool uses noise algorithms Diamond-square & Pelin noise in addition to a "traversability algorithm"
